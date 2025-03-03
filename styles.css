@@ -90,7 +90,7 @@ h2 {
     margin-bottom: 30px;
 }
 
-.menu-item img {
+.menu-item img , .item img{
     width: 100%;
     max-width: 400px;
     height: auto;
