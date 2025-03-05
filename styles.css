@@ -85,6 +85,16 @@ h2 {
     color: #444;
 }
 
+/* メインコンテンツのテキスト全般*/
+.textbox {
+    max-width: 400px;
+    margin: auto;
+}
+
+.textbox p {
+    text-align: left;
+}
+
 /* メニューセクション */
 .menu-item {
     margin-bottom: 30px;
